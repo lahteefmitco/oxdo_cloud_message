@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1718960536",
+    "project_id": "oxdo-cloud-message",
+    "storage_bucket": "oxdo-cloud-message.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1718960536:android:6a08e88aa798a0ee6b6bed",
+        "android_client_info": {
+          "package_name": "com.oxdotechnologies.oxdo_cloud_message"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLhpgzsWBaQWvGuCYIsrRsdNpY1yTgJQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
